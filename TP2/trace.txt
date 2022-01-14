@@ -1,0 +1,345 @@
+***************** Jeu de Monopoly *****************
+1) Charger la partie de sauvegarde
+2) Démarrer une nouvelle partie
+3) Quitter
+Entrez votre choix(1, 3): 2
+Chargement du plateau de jeu... ok
+Validation du plateau de jeu... ok
+***************** Saisie des joueurs        *******
+Entrez le nom du joueur: Pierre
+Entrez le nom du joueur: Stéphane
+Voulez-vous créer un troisième joueur (o/n): o
+Entrez le nom du joueur: Éric
+
+***************** Les joueurs **********************
+
+Pierre          est sur la case Depart                    et possède 400$.
+Stéphane        est sur la case Depart                    et possède 400$.
+Éric            est sur la case Depart                    et possède 400$.
+
+
+***************** Les cases   **********************
+
+0: Depart
+1: Jardin Margarin 60 4 aucun propriétaire
+2: Impôt sur le revenu 200
+3: Avenue Vimont 100 6 aucun propriétaire
+4: Plaza St-Hubert 140 10 aucun propriétaire
+5: Stationnement gratuit
+6: Aqueduc 150 0 aucun propriétaire
+7: Avenue Penseur-Vanier 240 20 aucun propriétaire
+8: Taxe de luxe 100
+9: Avenue Indiana-Jones 400 50 aucun propriétaire
+
+C'est au tour de Pierre
+1) Lancer le dé
+2) Sauvegarder et quitter
+3) Mettre fin à la partie et quitter
+Faites votre choix(1, 3): 1
+Vous avez obtenu: 4
+Vous devez payez 20 en taxes.
+Vous êtes sur la case Plaza St-Hubert.
+Cette case appartient à personne
+Le prix est de 140$. Voulez-vous acheter ? (o/n): o
+
+***************** Les joueurs **********************
+
+Pierre          est sur la case Plaza St-Hubert           et possède 240$.
+Stéphane        est sur la case Depart                    et possède 400$.
+Éric            est sur la case Depart                    et possède 400$.
+
+
+***************** Les cases   **********************
+
+0: Depart
+1: Jardin Margarin 60 4 aucun propriétaire
+2: Impôt sur le revenu 200
+3: Avenue Vimont 100 6 aucun propriétaire
+4: Plaza St-Hubert 140 10 achetée par Pierre
+5: Stationnement gratuit
+6: Aqueduc 150 0 aucun propriétaire
+7: Avenue Penseur-Vanier 240 20 aucun propriétaire
+8: Taxe de luxe 100
+9: Avenue Indiana-Jones 400 50 aucun propriétaire
+
+C'est au tour de Stéphane
+1) Lancer le dé
+2) Sauvegarder et quitter
+3) Mettre fin à la partie et quitter
+Faites votre choix(1, 3): 1
+Vous avez obtenu: 2
+Vous devez payez 200 en taxes.
+
+***************** Les joueurs **********************
+
+Pierre          est sur la case Plaza St-Hubert           et possède 240$.
+Stéphane        est sur la case Impôt sur le revenu       et possède 200$.
+Éric            est sur la case Depart                    et possède 400$.
+
+
+***************** Les cases   **********************
+
+0: Depart
+1: Jardin Margarin 60 4 aucun propriétaire
+2: Impôt sur le revenu 200
+3: Avenue Vimont 100 6 aucun propriétaire
+4: Plaza St-Hubert 140 10 achetée par Pierre
+5: Stationnement gratuit
+6: Aqueduc 150 0 aucun propriétaire
+7: Avenue Penseur-Vanier 240 20 aucun propriétaire
+8: Taxe de luxe 100
+9: Avenue Indiana-Jones 400 50 aucun propriétaire
+
+C'est au tour de Éric
+1) Lancer le dé
+2) Sauvegarder et quitter
+3) Mettre fin à la partie et quitter
+Faites votre choix(1, 3): 1
+Vous avez obtenu: 6
+Vous devez payez 20 en taxes.
+Vous êtes sur la case Aqueduc.
+Cette case appartient à personne
+Le prix est de 150$. Voulez-vous acheter ? (o/n): o
+
+***************** Les joueurs **********************
+
+Pierre          est sur la case Plaza St-Hubert           et possède 240$.
+Stéphane        est sur la case Impôt sur le revenu       et possède 200$.
+Éric            est sur la case Aqueduc                   et possède 230$.
+
+
+***************** Les cases   **********************
+
+0: Depart
+1: Jardin Margarin 60 4 aucun propriétaire
+2: Impôt sur le revenu 200
+3: Avenue Vimont 100 6 aucun propriétaire
+4: Plaza St-Hubert 140 10 achetée par Pierre
+5: Stationnement gratuit
+6: Aqueduc 150 0 achetée par Éric
+7: Avenue Penseur-Vanier 240 20 aucun propriétaire
+8: Taxe de luxe 100
+9: Avenue Indiana-Jones 400 50 aucun propriétaire
+
+C'est au tour de Pierre
+1) Lancer le dé
+2) Sauvegarder et quitter
+3) Mettre fin à la partie et quitter
+Faites votre choix(1, 3): 2
+***************** Quitter     *********************
+
+***************** Jeu de Monopoly *****************
+1) Charger la partie de sauvegarde
+2) Démarrer une nouvelle partie
+3) Quitter
+Entrez votre choix(1, 3): 1
+
+***************** Les joueurs **********************
+
+Pierre          est sur la case Plaza St-Hubert           et possède 240$.
+Stéphane        est sur la case Impôt sur le revenu       et possède 200$.
+Éric            est sur la case Aqueduc                   et possède 230$.
+
+
+***************** Les cases   **********************
+
+0: Depart
+1: Jardin Margarin 60 4 aucun propriétaire
+2: Impôt sur le revenu 200
+3: Avenue Vimont 100 6 aucun propriétaire
+4: Plaza St-Hubert 140 10 achetée par Pierre
+5: Stationnement gratuit
+6: Aqueduc 150 0 achetée par Éric
+7: Avenue Penseur-Vanier 240 20 aucun propriétaire
+8: Taxe de luxe 100
+9: Avenue Indiana-Jones 400 50 aucun propriétaire
+
+C'est au tour de Pierre
+1) Lancer le dé
+2) Sauvegarder et quitter
+3) Mettre fin à la partie et quitter
+Faites votre choix(1, 3): 1
+Vous avez obtenu: 3
+Vous êtes sur la case Avenue Penseur-Vanier.
+Cette case appartient à personne
+Le prix est de 240$. Voulez-vous acheter ? (o/n): o
+
+***************** Les joueurs **********************
+
+Pierre          est sur la case Avenue Penseur-Vanier     et possède 0$.
+Stéphane        est sur la case Impôt sur le revenu       et possède 200$.
+Éric            est sur la case Aqueduc                   et possède 230$.
+
+
+***************** Les cases   **********************
+
+0: Depart
+1: Jardin Margarin 60 4 aucun propriétaire
+2: Impôt sur le revenu 200
+3: Avenue Vimont 100 6 aucun propriétaire
+4: Plaza St-Hubert 140 10 achetée par Pierre
+5: Stationnement gratuit
+6: Aqueduc 150 0 achetée par Éric
+7: Avenue Penseur-Vanier 240 20 achetée par Pierre
+8: Taxe de luxe 100
+9: Avenue Indiana-Jones 400 50 aucun propriétaire
+
+C'est au tour de Stéphane
+1) Lancer le dé
+2) Sauvegarder et quitter
+3) Mettre fin à la partie et quitter
+Faites votre choix(1, 3): 1
+Vous avez obtenu: 2
+Vous êtes sur la case Plaza St-Hubert.
+Cette case appartient à Pierre
+Vous devez payer 20 à Pierre
+
+***************** Les joueurs **********************
+
+Pierre          est sur la case Avenue Penseur-Vanier     et possède 20$.
+Stéphane        est sur la case Plaza St-Hubert           et possède 180$.
+Éric            est sur la case Aqueduc                   et possède 230$.
+
+
+***************** Les cases   **********************
+
+0: Depart
+1: Jardin Margarin 60 4 aucun propriétaire
+2: Impôt sur le revenu 200
+3: Avenue Vimont 100 6 aucun propriétaire
+4: Plaza St-Hubert 140 10 achetée par Pierre
+5: Stationnement gratuit
+6: Aqueduc 150 0 achetée par Éric
+7: Avenue Penseur-Vanier 240 20 achetée par Pierre
+8: Taxe de luxe 100
+9: Avenue Indiana-Jones 400 50 aucun propriétaire
+
+C'est au tour de Éric
+1) Lancer le dé
+2) Sauvegarder et quitter
+3) Mettre fin à la partie et quitter
+Faites votre choix(1, 3): 1
+Vous avez obtenu: 4
+Vous devez payez 10 en taxes.
+Vous passez GO et gagnez 50$.
+
+***************** Les joueurs **********************
+
+Pierre          est sur la case Avenue Penseur-Vanier     et possède 20$.
+Stéphane        est sur la case Plaza St-Hubert           et possède 180$.
+Éric            est sur la case Depart                    et possède 270$.
+
+
+***************** Les cases   **********************
+
+0: Depart
+1: Jardin Margarin 60 4 aucun propriétaire
+2: Impôt sur le revenu 200
+3: Avenue Vimont 100 6 aucun propriétaire
+4: Plaza St-Hubert 140 10 achetée par Pierre
+5: Stationnement gratuit
+6: Aqueduc 150 0 achetée par Éric
+7: Avenue Penseur-Vanier 240 20 achetée par Pierre
+8: Taxe de luxe 100
+9: Avenue Indiana-Jones 400 50 aucun propriétaire
+
+C'est au tour de Pierre
+1) Lancer le dé
+2) Sauvegarder et quitter
+3) Mettre fin à la partie et quitter
+Faites votre choix(1, 3): 1
+Vous avez obtenu: 4
+Vous devez payez 10 en taxes.
+Vous passez GO et gagnez 50$.
+Vous êtes sur la case Jardin Margarin.
+Cette case appartient à personne
+Le prix est de 60$. Voulez-vous acheter ? (o/n): o
+
+***************** Les joueurs **********************
+
+Pierre          est sur la case Jardin Margarin           et possède 0$.
+Stéphane        est sur la case Plaza St-Hubert           et possède 180$.
+Éric            est sur la case Depart                    et possède 270$.
+
+
+***************** Les cases   **********************
+
+0: Depart
+1: Jardin Margarin 60 4 achetée par Pierre
+2: Impôt sur le revenu 200
+3: Avenue Vimont 100 6 aucun propriétaire
+4: Plaza St-Hubert 140 10 achetée par Pierre
+5: Stationnement gratuit
+6: Aqueduc 150 0 achetée par Éric
+7: Avenue Penseur-Vanier 240 20 achetée par Pierre
+8: Taxe de luxe 100
+9: Avenue Indiana-Jones 400 50 aucun propriétaire
+
+C'est au tour de Stéphane
+1) Lancer le dé
+2) Sauvegarder et quitter
+3) Mettre fin à la partie et quitter
+Faites votre choix(1, 3): 1
+Vous avez obtenu: 1
+Stationnement gratuit. Profitez de ce moment de répit
+
+***************** Les joueurs **********************
+
+Pierre          est sur la case Jardin Margarin           et possède 0$.
+Stéphane        est sur la case Stationnement gratuit     et possède 180$.
+Éric            est sur la case Depart                    et possède 270$.
+
+
+***************** Les cases   **********************
+
+0: Depart
+1: Jardin Margarin 60 4 achetée par Pierre
+2: Impôt sur le revenu 200
+3: Avenue Vimont 100 6 aucun propriétaire
+4: Plaza St-Hubert 140 10 achetée par Pierre
+5: Stationnement gratuit
+6: Aqueduc 150 0 achetée par Éric
+7: Avenue Penseur-Vanier 240 20 achetée par Pierre
+8: Taxe de luxe 100
+9: Avenue Indiana-Jones 400 50 aucun propriétaire
+
+C'est au tour de Éric
+1) Lancer le dé
+2) Sauvegarder et quitter
+3) Mettre fin à la partie et quitter
+Faites votre choix(1, 3): 1
+Vous avez obtenu: 2
+Vous devez payez 200 en taxes.
+
+***************** Les joueurs **********************
+
+Pierre          est sur la case Jardin Margarin           et possède 0$.
+Stéphane        est sur la case Stationnement gratuit     et possède 180$.
+Éric            est sur la case Impôt sur le revenu       et possède 70$.
+
+
+***************** Les cases   **********************
+
+0: Depart
+1: Jardin Margarin 60 4 achetée par Pierre
+2: Impôt sur le revenu 200
+3: Avenue Vimont 100 6 aucun propriétaire
+4: Plaza St-Hubert 140 10 achetée par Pierre
+5: Stationnement gratuit
+6: Aqueduc 150 0 achetée par Éric
+7: Avenue Penseur-Vanier 240 20 achetée par Pierre
+8: Taxe de luxe 100
+9: Avenue Indiana-Jones 400 50 aucun propriétaire
+
+C'est au tour de Pierre
+1) Lancer le dé
+2) Sauvegarder et quitter
+3) Mettre fin à la partie et quitter
+Faites votre choix(1, 3): 1
+Vous avez obtenu: 6
+Vous devez payez 20 en taxes.
+Et les gagant.e.s sont Stéphane avec 180$ 
+Et les perdant.e.s sont Pierre avec -20$ Éric avec 70$ 
+***************** Quitter     ********************
+
+

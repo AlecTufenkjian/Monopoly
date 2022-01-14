@@ -1,0 +1,11 @@
+type,nom,description,valeur,loyer
+D,Depart,réclamez votre salaire en passant,0,-200
+T,Jardin Margarin,,60,4
+Tx,Impôt sur le revenu,Payez,0,200
+T,Avenue Vimont,,100,6
+T,Plaza St-Hubert,,140,10
+P,Stationnement gratuit,un petit moment de répis,0,0
+SP,Aqueduc,,150,0
+T,Avenue Penseur-Vanier,,240,20
+Tx,Taxe de luxe,Payez,0,100
+T,Avenue Indiana-Jones,,400,50
